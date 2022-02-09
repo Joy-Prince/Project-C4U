@@ -1,0 +1,35 @@
+		h1
+		{
+			text-align: center;
+			font-size: 50px;
+			font-family: cursive;
+		}
+		ul {
+			font-family: cursive;
+			font-size: 17px;
+		}
+		p{
+			font-family: cursive;
+			font-size: 20px;
+			font-style: italic;
+			text-transform: capitalize;
+
+		}
+		.button {
+			font-family: cursive;
+			font-size: 20px;
+		}
+		#bg {
+			background-color: black;
+			opacity: 0.3;
+		}
+		#bg:hover {
+			background-color: black;
+			opacity: 0.5;
+		}
+		#bgc {
+			background-color: orange;
+		}
+		#link:hover {
+			color: whitesmoke;
+		}
