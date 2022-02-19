@@ -1,34 +1,59 @@
+		@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+		span {
+			font-size: 25px;
+			font-family: 'Josefin Sans', sans-serif;
+			
+		}
+		.nav-link {
+			font-family: sans-serif;
+			color: gray;
+  			font-size: 14px;
+			font-weight: 550;
+  			padding: 10px;
+		}
+
+		#primarytop {
+			background-color: white;
+		}
+
+	
+
+		#greeting{
+			text-align: center;
+			font-family: 'Josefin Sans', sans-serif;
+			font-size: 20px;
+			font-style: italic;
+			text-transform: capitalize;
+
+		}
 		h1
 		{
 			text-align: center;
 			font-size: 50px;
 			font-family: cursive;
 		}
-		ul {
-			font-family: cursive;
-			font-size: 17px;
-		}
-		p{
-			font-family: cursive;
+		
+	
+		#p {
+			color: whitesmoke;
+			font-family: 'Josefin Sans', sans-serif;
 			font-size: 20px;
-			font-style: italic;
-			text-transform: capitalize;
-
+		}
+		.address {
+			font-family: sans-serif;
+			color: whitesmoke;
+		}
+		#nav-footer {
+			color: black;
 		}
 		.button {
 			font-family: cursive;
 			font-size: 20px;
 		}
-		#bg {
-			background-color: black;
-			opacity: 0.3;
-		}
-		#bg:hover {
-			background-color: black;
-			opacity: 0.5;
-		}
+		
 		#bgc {
-			background-color: orange;
+			background-color: #c67c00;
 		}
 		#link:hover {
 			color: whitesmoke;
