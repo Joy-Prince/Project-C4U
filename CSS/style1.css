@@ -1,5 +1,5 @@
 		@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
-
+		/*----------Header-----------*/
 		span {
 			font-size: 25px;
 			font-family: 'Josefin Sans', sans-serif;
@@ -18,7 +18,7 @@
 		}
 
 	
-
+		
 		#greeting{
 			text-align: center;
 			font-family: 'Josefin Sans', sans-serif;
