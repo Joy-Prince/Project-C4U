@@ -1,5 +1,6 @@
 		@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
-
+	
+		/*---------------------------header------------------------------*/
 		span {
 			font-size: 25px;
 			font-family: 'Josefin Sans', sans-serif;
@@ -12,10 +13,42 @@
 			font-weight: 550;
   			padding: 10px;
 		}
-
 		#primarytop {
 			background-color: white;
 		}
+
+
+		/*---------------------------Sliders------------------------------*/
+		.box-border{
+			border: 1px solid black;
+		}
+		.slider-image {
+			width:100%; 
+			height: 350px;
+		}
+		h2 {
+			font-family:'Josefin Sans', sans-serif;
+			text-align: center;
+			font-size: 20px;
+		}
+		.price {
+			text-align: center;
+		}
+		.buy-button {
+			width: 100%; 
+			background-color: orange; 
+			padding: 5px; 
+			margin-bottom: 50px; 
+			color: black;
+			font-family: 'Josefin Sans', sans-serif;
+			font-size: 20px;
+			border: 1px solid grey;
+			border-radius: 10px;
+		}
+		.buy-button:hover {
+			box-shadow: 10px 10px 16px 0 rgba(0,0,0,0.1), 0 12px 12px 0 rgba(0,0,0,0.1);
+		}
+
 		h1 {
 			font-family: cursive;
 			text-align: center;
@@ -31,30 +64,27 @@
 			font-style: italic;
 			text-transform: capitalize;
 		}
-		h2 {
-			font-family:'Josefin Sans', sans-serif;
-			text-align: center;
-			font-size: 15px;
-		}
+		
 		.button {
 			font-family: cursive;
 			font-size: 20px;
+			padding: 100px;
 		}
-		#bgc {
+
+
+
+
+		/*---------------------------Footer------------------------------*/
+
+		#footer {
 			background-color: orange;
 		}
-		#link:hover {
-			color: whitesmoke;
-		}
-		#p {
+		#footer-heading {
 			color: whitesmoke;
 			font-family: 'Josefin Sans', sans-serif;
 			font-size: 20px;
 		}
-		.address {
-			font-family: sans-serif;
-			color: whitesmoke;
-		}
+
 		#nav-footer {
 			color: black;
 		}

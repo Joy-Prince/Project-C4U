@@ -33,28 +33,17 @@
 			font-size: 50px;
 			font-family: cursive;
 		}
-		
+
 	
-		#p {
+		#footer {
+			background-color: orange;
+		}
+		#footer-heading {
 			color: whitesmoke;
 			font-family: 'Josefin Sans', sans-serif;
 			font-size: 20px;
 		}
-		.address {
-			font-family: sans-serif;
-			color: whitesmoke;
-		}
+
 		#nav-footer {
 			color: black;
-		}
-		.button {
-			font-family: cursive;
-			font-size: 20px;
-		}
-		
-		#bgc {
-			background-color: #c67c00;
-		}
-		#link:hover {
-			color: whitesmoke;
 		}
