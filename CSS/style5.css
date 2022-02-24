@@ -31,11 +31,13 @@
 			font-size: 20px;
 			font-style: italic;
 			text-transform: capitalize;
+
 		}
 		#p {
 			color: whitesmoke;
 			font-family: 'Josefin Sans', sans-serif;
 			font-size: 20px;
+			font-style: normal;
 		}
 		.address {
 			font-family: sans-serif;
