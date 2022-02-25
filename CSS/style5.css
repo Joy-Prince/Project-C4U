@@ -15,6 +15,7 @@
 
 		#primarytop {
 			background-color: white;
+			
 		}
 
 		h1 {
@@ -51,7 +52,7 @@
 			font-size: 20px;
 		}
 		#bgc {
-			background-color: orange;
+			background-color:orange;
 		}
 		#link:hover {
 			color: whitesmoke;
